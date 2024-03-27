@@ -6,4 +6,4 @@ appVersion: 8.5.1
 
 dependencies:
 - name: elk
-  repository: https://github.com/elastic/helm-charts.git/elasticsearch
+  repository: https://github.com/elastic/helm-charts.git

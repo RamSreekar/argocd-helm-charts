@@ -5,7 +5,7 @@ version: 8.5.1
 appVersion: 8.5.1
 
 sources:
-  - "https://github.com/elastic/elasticsearch"
+  - https://github.com/elastic/elasticsearch
 
 dependencies:
 - name: elasticsearch
